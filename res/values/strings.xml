@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, TwitterApp2Activity!</string>
+    <string name="app_name">TwitterApp2</string>
+    <string name="Following">Following</string>
+    <string name="Tweet">Tweet</string>
+    <string name="TimeLine">TimeLine</string>
+    <string name="getTimeLine">getTimeLine</string>
+    <string name="getFollowers">getFollowers</string>
+    <string name="PostTweet">PostTweet</string>
+
+</resources>
